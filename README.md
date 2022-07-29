@@ -1,6 +1,6 @@
 # Analysis-of-The-Prison-Break-Helicopter-Escapes
 Background<br>
-There have been multiple prison escapes where an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico.<br>
+There have been multiple prison escapes where an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", in August 19, 1971, from the Santa Martha Acatitla in Mexico.<br>
 
 The following questions are to be answered<br>
 1: In which year did the most helicopter prison break attempts occur?<br>
