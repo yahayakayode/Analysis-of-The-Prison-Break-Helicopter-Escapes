@@ -10,3 +10,10 @@ The following questions are to be answered<br>
 5: Which escapees have done it more than once?<br>
 
 To answer the above questions, data from this https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes page was scraped and analyzed. It covers the details of attempted helicopter prison escapes over a period of 50 years (1971-2020)
+
+## Key Insights
+
+1: It can be deduced that the year 1986, 2001, 2007 and 2009 has the highest number of helicopter prison escapes with a total of three attempts each.<br>
+2: France has the highest number attempted helicopter prison escapes with 15 attempts, follow by United States with 8 attempts<br>
+3: The helicopter prison breaks have a higher chance of success in France<br> 
+4: 71% (34) of the helicopter prison breaks recorded to be successful and the prisoners were able to escape with the helicopter, while 29% were recorded to be unsuccessful.<br>
